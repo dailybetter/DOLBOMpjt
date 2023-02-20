@@ -1,0 +1,234 @@
+{
+  "calendarEvents": [
+    {
+      "allDay": true,
+      "end": "2023-01-24T15:00:00.000Z",
+      "id": "984563eb-6213-42b3-a90f-ff4c5346e606",
+      "start": "2023-01-22T15:00:00.000Z",
+      "title": "오후 미팅",
+      "resourceEditable": true
+    },
+    {
+      "title": "이충무",
+      "start": "2023-02-02T12:30:00+09:00",
+      "end": "",
+      "content": "ll",
+      "id": "mXLB-xE"
+    },
+    {
+      "title": "박현수",
+      "start": "2023-02-03T01:00:00.000Z",
+      "end": "2023-02-03T04:00:00.000Z",
+      "id": "goPfk6Y"
+    },
+    {
+      "title": "이충무",
+      "start": "2023-02-04T01:00:00.000Z",
+      "end": "2023-02-04T04:00:00.000Z",
+      "content": "sfgdsfgs",
+      "id": "CKPweik"
+    },
+    {
+      "title": "박현수",
+      "start": "2023-02-05T02:00:00.000",
+      "end": "2023-02-05T04:00:00.000",
+      "content": "오전시간 바꾸고 등록",
+      "id": "d8M32xo"
+    },
+    {
+      "title": "박현수",
+      "start": "2023-02-06T01:00:00.000Z",
+      "end": "2023-02-06T04:00:00.000Z",
+      "content": "오후 시간 바꾸고 등록",
+      "id": "iM4icf4"
+    },
+    {
+      "title": "이충무",
+      "start": "2023-02-07T16:00:00.000Z",
+      "end": "2023-02-07T19:00:00.000Z",
+      "content": "ㄹㅇㄴㄹㄴㅇㄹ",
+      "id": "o862e5A"
+    },
+    {
+      "title": "박현우",
+      "start": "2023-02-07T00:00:00.000Z",
+      "end": "2023-02-07T04:00:00.000Z",
+      "content": "나는 박현우다",
+      "id": "zet7UtJ"
+    },
+    {
+      "title": "박현우",
+      "start": "2023-02-09T01:00:00.000Z",
+      "end": "2023-02-09T04:00:00.000Z",
+      "content": "ffff",
+      "id": "7ZPJAVq"
+    },
+    {
+      "title": "박현우",
+      "start": "2023-02-10T06:30:00+09:00",
+      "end": "2023-02-10T09:30:00+09:00",
+      "content": "fdsf",
+      "id": "dpw1jmY"
+    },
+    {
+      "title": "이재훈",
+      "start": "2023-02-11T01:00:00.000Z",
+      "end": "2023-02-11T04:00:00.000Z",
+      "content": "fsd",
+      "id": "Qq8B1tW"
+    },
+    {
+      "title": "박현수",
+      "start": "2023-02-12T01:00:00.000Z",
+      "end": "2023-02-12T04:00:00.000Z",
+      "content": "fsda",
+      "id": "eyevJyQ"
+    },
+    {
+      "title": "박현수",
+      "start": "2023-02-13T00:00:00.000Z",
+      "end": "2023-02-13T11:00:00.000Z",
+      "kr_start": "2023-02-13T00:00:00.000Z",
+      "kr_end": "2023-02-13T11:00:00.000Z",
+      "content": "mmmm",
+      "id": "t4kQbvs"
+    },
+    {
+      "title": "박현수",
+      "start": "2023-02-14T01:00:00.000Z",
+      "end": "2023-02-14T04:00:00.000Z",
+      "kr_start": "2023-02-14T01:00:00.000Z",
+      "kr_end": "2023-02-14T04:00:00.000Z",
+      "content": "llll",
+      "id": "2RllSBw"
+    },
+    {
+      "title": "박현수",
+      "start": "2023-02-15T01:00:00.000Z",
+      "end": "2023-02-15T04:00:00.000Z",
+      "kr_start": null,
+      "kr_end": null,
+      "content": "FDSF",
+      "id": "ydP2mPI"
+    },
+    {
+      "title": "박현우",
+      "start": "2023-02-17T01:00:00.000Z",
+      "end": "2023-02-17T04:00:00.000Z",
+      "content": "ㅗㅎ로",
+      "id": "FIoLL80"
+    },
+    {
+      "name": "박현우",
+      "email": "a40293865@gmail.com",
+      "phne": "01040293865",
+      "id": "BZN0ZF9"
+    },
+    {
+      "name": "가나다",
+      "email": "ghasi@naver.com",
+      "phne": "01029384375",
+      "id": "psAzBVe"
+    },
+    {
+      "name": "박현우",
+      "email": "email@email.com",
+      "phne": "01040293865",
+      "id": "mlJD9az"
+    },
+    {
+      "name": "박현우",
+      "email": "email@email.com",
+      "phne": "01040293865",
+      "id": "kcoX5Qr"
+    }
+  ],
+  "users": [
+    {
+      "userName": "이충무",
+      "userColor": "green"
+    },
+    {
+      "userName": "박현우",
+      "userColor": "pink"
+    },
+    {
+      "userName": "박현수",
+      "userColor": "pink"
+    },
+    {
+      "userName": "이재훈",
+      "userColor": "red"
+    },
+    {
+      "userName": "제목없음",
+      "userColor": "red"
+    },
+    {
+      "userName": "",
+      "userColor": "red"
+    }
+  ],
+  "clients": [
+    {
+      "clientName": "김옥지",
+      "clientEmail": "angimozzi@naver.com"
+    }
+  ],
+  "null": [
+    {
+      "ud": 1,
+      "folderName": "ddd",
+      "id": 1
+    },
+    {
+      "ud": null,
+      "folderName": "asdf",
+      "id": 4
+    },
+    {
+      "ud": null,
+      "folderName": "새폴더",
+      "id": 5
+    },
+    {
+      "folderName": "dddddddd",
+      "id": 6
+    },
+    {
+      "folderName": "asdf",
+      "id": 7
+    },
+    {
+      "folderName": "fff",
+      "id": 8
+    },
+    {
+      "folderName": "ㄹㄹㄹㄹㄹㄹㄹㄹㄹ",
+      "path": "null",
+      "id": 9
+    },
+    {
+      "folderName": "fff",
+      "path": "null/null",
+      "id": 10
+    }
+  ],
+  "DDD": [
+    {
+      "folderName": "fff",
+      "path": "null/DDD",
+      "id": 10
+    }
+  ],
+  "RootFolder": [
+    {
+      "folderList":["aaa","bbb","ccc"]
+    }
+  ],
+  "aaa":[
+    {
+      "folderList":["secondfloor"]
+    }
+  ]
+}

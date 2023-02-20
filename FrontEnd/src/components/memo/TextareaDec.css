@@ -1,0 +1,24 @@
+#memoContainer {
+  z-index: 0;
+  width: 80%;
+  height: 100%;
+  margin: 20px;
+}
+
+.buttons {
+  margin-top: 20px;
+
+  float: right;
+}
+
+#record-start {
+  margin-left: 10px;
+}
+
+#record-stop {
+  margin-left: 10px;
+}
+
+#text-save {
+  margin-left: 10px;
+}
