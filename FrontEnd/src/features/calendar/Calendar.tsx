@@ -8,7 +8,14 @@ import { useCallback, useEffect, useState } from 'react';
 import { axiosService } from '../../api/instance';
 import { useModalControl } from '../../hooks/useModalControl';
 import { EventModal } from './EventModal';
-
+interface DropData {
+  scheduleId: string;
+  clientId: string;
+  title: string;
+  start: string;
+  end: string;
+  content: string;
+  }
 export const Calendar = () => {
   const [events, setEvents] = useState<EventApi[]>([]);
   const [currentEvents, setCurrentEvents] = useState<EventApi[]>([]);
@@ -32,7 +39,7 @@ export const Calendar = () => {
   const eventDrop = (info: any) => {
     const updateId = info.event.extendedProps.scheduleId;
     axiosService.get(`schedule/${updateId}`).then((res) => {
-      const DropData = {
+      const DropData: DropData = {
         scheduleId: updateId,
         clientId: res.data.clientId,
         title: res.data.title,
