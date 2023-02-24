@@ -10,12 +10,13 @@ import { useModalControl } from '../../hooks/useModalControl';
 import { EventModal } from './EventModal';
 
 export const Calendar = () => {
-  const [events, setEvents] = useState([]);
-  const modalControl = useModalControl(false);
-  const [eventInfos, setEventInfos] = useState();
-  const [clickInfos, setClickInfos] = useState();
+  const [events, setEvents] = useState<EventApi[]>([]);
+  const [currentEvents, setCurrentEvents] = useState<EventApi[]>([]);
   const [isEditCard, setIsEditCard] = useState<boolean>(false);
-  const [toggle, setToggle] = useState(false);
+  const [toggle, setToggle] = useState<boolean>(false);
+  const [eventInfos, setEventInfos] = useState<any>();
+  const [clickInfos, setClickInfos] = useState<any>();
+  const modalControl = useModalControl(false);
   const UpdateToggle = () => {
     setToggle(!toggle);
   };
@@ -67,7 +68,7 @@ export const Calendar = () => {
         isEditCard={isEditCard}
         update={UpdateToggle}
       />
-      <div className="demo-app-main">
+      <div>
         <FullCalendar
           plugins={[dayGridPlugin, interactionPlugin, timeGridPlugin]}
           headerToolbar={{
